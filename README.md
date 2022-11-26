@@ -25,7 +25,7 @@
 
 
 ## Connect With me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dhruv-sirodaria-4279731a1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=125 height=30></a>
   <a href="https://twitter.com/dhruv_sirodaria" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width=125 height=30></a>
 </p>
