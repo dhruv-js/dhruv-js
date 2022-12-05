@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Networking and Open-Source**
 
-- 💬 Ask me about **Flutter, Java**
+- 💬 Ask me about **Flutter, Java, App dev**
 
 ## Till Now:
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-js&show_icons=true&theme=radical&hide_border=true)
