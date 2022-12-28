@@ -7,7 +7,7 @@
 ## Work in Progress:
 - 🔭 I’m currently improving my **Problem-solving skills**
 
-- 🌱 I’m currently learning **Networking and Open-Source**
+- 🌱 I’m currently learning **DSA and Devops**
 
 - 💬 Ask me about **Flutter, Java, App dev**
 
@@ -24,6 +24,6 @@
 </p>
 
 ## Buy me a :coffee:
-<p><a href="https://www.buymeacoffee.com/dhruvjs"> <img align="left" src="https://blogger.googleusercontent.com/img/a/AVvXsEi8lSrVEG5NztkVJbR1QuedM9Nc54NVr5lHY0c8fU2s7J5T7aMheiwt-geXOJOZT1mKnrafbfpXmXWXj6Vjd4PhY8DDW8teSkOAYD2PI0eTEk20y6YvZ5IS5Z9nYkhBr2ohd1BTdwpKSPsloXHZjudUjykoF6DkBDG3BoJQPIivCwN-q62Z9H7SSR9R" height="35" width="150" alt="Dhruv Sirodaria" /></a></p>
+<p><a href="https://www.buymeacoffee.com/dhruvjs"> <img align="left" src="https://blogger.googleusercontent.com/img/a/AVvXsEi8lSrVEG5NztkVJbR1QuedM9Nc54NVr5lHY0c8fU2s7J5T7aMheiwt-geXOJOZT1mKnrafbfpXmXWXj6Vjd4PhY8DDW8teSkOAYD2PI0eTEk20y6YvZ5IS5Z9nYkhBr2ohd1BTdwpKSPsloXHZjudUjykoF6DkBDG3BoJQPIivCwN-q62Z9H7SSR9R" height="30" width="125" alt="Dhruv Sirodaria" /></a></p>
 
 
